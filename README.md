@@ -27,7 +27,7 @@
 - **Play Time Monitoring**
 - **Payment Recording**
 
-# Technologies We Used
+# 💻 Technologies We Used
 - **Programming Language: C++**
 - **Tools: Github, Google Docs**
 - **Application: Visual Studio Code**
