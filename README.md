@@ -6,7 +6,7 @@
 # 👥 Team Members
 - **Miraflor, Seth Carlo T.**
 - **Macaraeg, Bien**
--**Olmoguez, Zyd P.**
+- **Olmoguez, Zyd P.**
 - **Lacsamana, Timothy** 
 
 # 📝 Project Description
