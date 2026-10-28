@@ -1,6 +1,8 @@
 # CPE-010-CPE21S4-Data-Structure-And-Algorithms-Final-Project-Group-7
 **Data Structure &amp; Algorithms Final Project Group 7**
 
+# 🎱 Billiards Hall Management and Table Reservation System
+
 # Team Members
 - **Miraflor, Seth Carlo T.**
 - **Macaraeg, Bien**
