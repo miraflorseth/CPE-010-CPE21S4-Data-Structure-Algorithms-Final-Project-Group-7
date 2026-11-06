@@ -3,6 +3,42 @@
 
 # 🎱 Billiards Hall Management and Table Reservation System
 
+Console program in C++ (CPE 010, Data Structures and Algorithms).
+
+## Files
+| File | Purpose |
+|------|---------|
+| main.cpp | Menu, table array, reservations, payments, reports |
+| Queue.h | Linked-list queue (FIFO) for customers waiting for a table |
+| LinkedList.h | Singly linked list for reservations and transactions |
+| Algorithms.h | Bubble sort and binary search |
+| Models.h | Customer, Reservation and Transaction structs |
+| benchmark.cpp | Timing code for the experimental analysis |
+
+## Compile and run
+```
+g++ -std=c++17 -O2 main.cpp -o billiards
+./billiards
+```
+On Windows use `billiards.exe`.
+
+## Benchmark
+```
+g++ -std=c++17 -O2 benchmark.cpp -o benchmark
+./benchmark
+```
+The last row (n = 100,000) runs bubble sort once and can take a few minutes.
+
+## Data structures and algorithms
+- Array: the 6 tables and their status
+- Queue (linked list): waiting customers, first come first served
+- Linked list: active reservations and paid transactions
+- Binary search: find a reservation by customer ID (records sorted first)
+- Bubble sort: sort sales by amount
+
+Paid sessions are also appended to sales.txt. Fees are PHP 120 per hour, billed in 15-minute blocks.
+
+
 # 👥 Team Members
 - **Miraflor, Seth Carlo T.**
 - **Macaraeg, Bien**
